@@ -87,7 +87,6 @@ import {
   Avatar,
   Van,
   OfficeBuilding,
-  Warehouse,
   UserFilled
 } from '@element-plus/icons-vue'
 import { useUserStore } from '@/stores/user'
